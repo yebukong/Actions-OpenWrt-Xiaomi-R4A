@@ -15,7 +15,7 @@
 
 使用 `Lean` 大佬的 https://github.com/coolsnowwolf/lede openwrt源码编译 `小米R4A千兆版` 的 `breed直刷版`
 
-1. .comfig 默认配置选中小米R4A千兆版 （其余默认）
+1. .config 默认配置选中小米R4A千兆版 （其余默认）
 
 2. 修改diy-part1.sh
 
